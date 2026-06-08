@@ -1,0 +1,11 @@
+Al registrar un reporte mediante una petición POST, la información queda almacenada temporalmente en un arreglo dentro del servidor. Al consultar la ruta GET /reportes, el sistema muestra la lista de reportes registrados hasta el momento.
+
+Ejemplo de respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
