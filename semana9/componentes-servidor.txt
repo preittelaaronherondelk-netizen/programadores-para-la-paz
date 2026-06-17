@@ -1,0 +1,14 @@
+Sistema operativo:
+Es la base donde funciona el servidor y permite administrar recursos del equipo.
+
+Node.js:
+Es el entorno que permite ejecutar aplicaciones JavaScript en el servidor.
+
+Aplicación server.js:
+Es el archivo donde se encuentra la configuración y funcionamiento del servidor.
+
+Puerto:
+Es la dirección donde el servidor recibe solicitudes de los usuarios.
+
+Logs:
+Son registros que muestran eventos, errores y actividades del sistema.
