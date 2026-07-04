@@ -1,0 +1,14 @@
+Tareas que realizaría primero:
+
+1. Permitir registrar una incidencia.
+2. Enviar una notificación a Telegram.
+
+¿Por qué son las más importantes?
+
+Porque primero es necesario que el sistema permita registrar la información y luego informar al equipo para iniciar el seguimiento.
+
+Definición de terminado:
+
+- La funcionalidad funciona correctamente.
+- Fue probada sin errores.
+- Quedó registrada en Git y publicada en GitHub.
