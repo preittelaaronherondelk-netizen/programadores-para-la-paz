@@ -1,0 +1,17 @@
+Entidad: Causa
+
+id
+titulo
+descripcion
+fecha
+
+Sirve para almacenar la información principal de cada causa ciudadana.
+
+Entidad: Apoyo
+
+id
+causa_id
+nombre
+fecha
+
+Sirve para registrar las personas que apoyan una causa específica.
