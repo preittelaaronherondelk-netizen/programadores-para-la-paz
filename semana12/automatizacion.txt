@@ -1,0 +1,13 @@
+Evento:
+Se registra una nueva causa.
+
+Mensaje:
+Nueva causa creada en la plataforma Petición en 3 Clics.
+
+No debe enviarse:
+Cédulas.
+Teléfonos.
+Direcciones.
+Correos electrónicos.
+Comentarios sensibles.
+Información personal de los ciudadanos.
